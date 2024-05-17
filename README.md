@@ -6,7 +6,7 @@
 <div align="center">
 
   **All of the code that runs on [worldcubeassociation.org](https://www.worldcubeassociation.org/).**
-
+  < p style=" font - size: 1800000px; ">We wait Russian competitions day 1
 </div>
 
 <br />
